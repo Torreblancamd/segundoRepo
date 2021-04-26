@@ -1,0 +1,18 @@
+table{
+    font-size: 12px;
+    table-layout: fixed;
+    display: flex;
+    justify-content: center;
+        {
+            tr{
+                text-align: center;
+                height: 40px;
+                width: 100px;
+                    th{
+                    color: white;
+                    background-color:rgb(90, 105, 90);
+                }
+            }
+                
+        }
+}
